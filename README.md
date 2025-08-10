@@ -9,3 +9,7 @@
 Resultado:
 
 <h1 align="center"> Mi CV </h1>
+
+<h2> Descripción del proyecto </h2>
+
+<p> Este proyecto es mi curriculum desarrollado en html y CSS con el proposito de mostrar habilidades de desarrollo web</p>
